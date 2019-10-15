@@ -1,0 +1,15 @@
+{
+	"name": "react-lazyload",
+	"description": "Haxe externs for react-lazyload",
+	"classPath": "src",
+	"dependencies": {
+		"react-types": ""
+	},
+	"url": "https://github.com/kasparsj/haxe-react-lazyload",
+	"contributors": [
+		"kasparsj"
+	],
+	"version": "0.1.0",
+	"releasenote": "initial import",
+	"license": "MIT"
+}
